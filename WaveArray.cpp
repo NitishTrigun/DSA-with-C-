@@ -11,7 +11,7 @@ int swapArray(int arr[],int n){
 int main(){
     int arr[]={1,2,3,4,5,6,7,8};
     int n=sizeof(arr)/sizeof(arr[0]);
-    cout<<"Swap Array:"<<endl;
+    cout<<"Wave Array:"<<endl;
     swapArray(arr,n);
 
     for(int i=0;i<n;i++){
